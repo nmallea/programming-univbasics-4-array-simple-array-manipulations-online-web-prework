@@ -4,7 +4,8 @@ colors_in_the_rainbow.push(violet)
 colors_in_the_rainbow
 
 bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-bouroughs_in_nyc.unshift("Staten Island")
+new_neighborhood = "Staten Island"
+bouroughs_in_nyc.unshift(new_neighborhood)
 
 bouroughs_in_nyc
 
